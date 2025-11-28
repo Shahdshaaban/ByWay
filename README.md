@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Online Learning Platform (Frontend)
 
 A modern React-based frontend for an **online learning platform** where users can join as **students** or **instructors**.
@@ -100,3 +101,6 @@ A modern React-based frontend for an **online learning platform** where users ca
    npm run dev
    ```
 4. Open your browser at http://localhost:5173/
+=======
+# ByWay
+>>>>>>> 2a33086b82e8d0bbd6e6010fc378c86f003a4187
